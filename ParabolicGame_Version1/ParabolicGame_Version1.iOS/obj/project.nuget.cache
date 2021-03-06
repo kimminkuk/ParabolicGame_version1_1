@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PpGSeTi3xDpuAM0sIgJccmpU8OQW8cPj9ya8dPlF/tKRz8F4xstOKYSzB4ZEi4naRd9O0o72kc3S29TVfkXlrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mari5\\source\\repos\\ParabolicGame_Version1\\ParabolicGame_Version1\\ParabolicGame_Version1.iOS\\ParabolicGame_Version1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
